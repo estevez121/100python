@@ -12,6 +12,6 @@
 
 # Fibonacci series:
 a, b = 0, 1
-while a < 999999999:
+while a < 10000:
     print("Fn = {}".format(a))
     a, b = b, a + b
