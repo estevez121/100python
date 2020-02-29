@@ -51,6 +51,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 dev-test/
+aws-developer-study/
 
 # Translations
 *.mo
