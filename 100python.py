@@ -8,7 +8,7 @@
 # @copyright
 # @license
 #
-# !/usr/bin/env python3.7
+# !/usr/bin/env python3.8
 
 __version__ = "0.1"
 
